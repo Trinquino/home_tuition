@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "home_tuition_app", "home_tuition_app.pyproj", "{FCAAF03B-8EA4-449F-AD34-BC244319CD37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCAAF03B-8EA4-449F-AD34-BC244319CD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAAF03B-8EA4-449F-AD34-BC244319CD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {746C65F7-CD8D-4EC2-A3E9-90ECE0E71621}
+	EndGlobalSection
+EndGlobal
